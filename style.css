@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: url("https://wallpapercave.com/wp/wp14156682.png") no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0b121f;
+    padding: 21px;
+}
+
+svg {
+    padding-left: 61px;
+}
+
+.nav-opt a {
+    color: #9ba8c3;
+    text-decoration: none;
+    padding: 0 45px 23px 8px;
+    font-size: 16px;
+    font-weight: 500;
+
+
+}
+
+
+
+
+.nav-opt a:hover {
+    color: #9fef00;
+}
+
+.btn {
+    margin-right: 77px;
+}
+
+.btn .btn1 {
+    color: #a4b1cd;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 15px;
+    background: none;
+    border: none;
+
+}
+
+.btn .btn1:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.btn .btn2 {
+    color: #141d2b;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 20px 14px 20px;
+    border: none;
+    border-radius: 2px;
+    background-color: #9fef00;
+}
+
+.btn .btn2:hover {
+    background-color: #bbff34;
+    cursor: pointer;
+}
+
+
+main .heading {
+    font-size: 36px;
+    font-weight: 600;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 78px;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    line-height: 72px;
+}
+
+main .para {
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 78px;
+    padding-top: 30px;
+    color: rgb(164, 177, 205);
+
+
+}
+
+main .main-btns {
+    padding-left: 78px;
+    padding-top: 35px;
+
+}
+
+
+main .main-btns .common {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+
+
+
+
+main .main-btns .main-btn1 {
+    margin-right: 27px;
+    background-color: #9fef00;
+    color: #141d2b;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 20px 20px 14px 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+main .main-btns .main-btn2 {
+    font-size: 17px;
+    background-color: rgb(33, 37, 41);
+    color: #9ba8c3;
+    font-weight: 500;
+    padding: 20px 20px 14px 20px;
+    border: none;
+    border-radius: 4px;
+
+}
+
+main .main-btns .main-btn1:hover {
+    cursor: pointer;
+    background-color: #bbff34;
+
+
+}
+
+main .main-btns .main-btn2:hover {
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+
+.trial_templete{
+    padding-left: 78px;
+    margin-top: 23px
+
+
+}
+
+
+.new_button{
+    border-radius: 23px;
+    font-size: 12px;
+    background-color: rgb(20, 29, 43);
+    color: #9fef00;
+    border-style: none;
+
+}
+
+
+.larger_one_ellipse{
+    border-style: 23px;
+    border-radius: 23px;
+    border-color: aqua;
+    color: red;
+    
+}
+
+.larger_one_ellipse:hover{
+    color: #9fef00;
+    cursor: pointer;
+}
+
+
+
+
+
+
